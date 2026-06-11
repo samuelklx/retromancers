@@ -30,7 +30,6 @@ app.get('/', (req: Request, res: Response) => {
     res.json({ message: "You found Bit's API!" });
 });
 
-
 // ---Start Server---
 
 // Bind and listen to PORT
